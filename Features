@@ -1,0 +1,53 @@
+EmberAI Features
+
+AI Models
+• Apple on-device AI (Mochi) — private, no data leaves the device
+• Llama 70B (cloud) — expressive roleplay
+• Qwen3 32B (cloud) — reasoning and creative writing
+• Mixtral 8x7B (cloud) — lightweight and fast
+• Switch models at any time within a conversation
+
+Characters
+• Pre-built roster of original characters across multiple genres (fantasy, mystery, romance, sci-fi, comedy, action, etc.)
+• Each character has a unique personality, tone, expertise, catchphrase, and immersive opening scenario
+• Characters respond with narration, inner thoughts, and dialogue
+• Filter characters by tags, gender, and popularity
+• Sort by Latest, Discover, Popular, or Recommended
+
+Custom Character Creation
+• Create your own AI characters
+• Define name, personality, tone, backstory, and starting scenario
+• Assign tags and gender
+• Characters saved locally and accessible from your profile
+
+Conversations
+• Multiple concurrent conversations
+• Custom instructions per chat (adjust character behavior)
+• Supporting characters — add characters from recent chats into a conversation for multi-character scenes
+• Chat history with recent chats view
+• Rename conversations
+• Start new chats at any time
+• Clear all chat history from settings
+
+Personalization
+• Onboarding flow: name, age, gender, preferred content tags
+• Characters address you by name
+• Tag preferences influence character recommendations
+• Editable display name from profile
+
+Gem System (Virtual Currency)
+• 200 gems to start
+• 2 gems per message sent
+• Daily bonus: 30 free gems
+• Watch rewarded ads: 25 gems each, up to 5 per day
+• In-app purchase gem packs
+
+Settings & Preferences
+• Toggle notifications
+• Toggle haptic feedback
+• NSFW character filter (age-gated, 18+)
+• Clear all chat history
+
+Privacy
+• On-device AI option processes conversations entirely on the user's iPhone
+• No account or login required
